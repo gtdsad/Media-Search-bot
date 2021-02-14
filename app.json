@@ -40,6 +40,14 @@
             "value": "",
             "required": false
         },
+        "INVITE_MSG": {
+            "description": "Message to invite user to channel",
+            "value": "Join @lalettan_fans_association to use the bot"
+        },
+        "AUTH_CHANNEL": {
+            "description": "Username of channel",
+            "value": "@lalettan_fans_association"
+        },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
